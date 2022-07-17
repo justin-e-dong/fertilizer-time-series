@@ -10,8 +10,6 @@ The ARIMA model's projections over the next five years (until 2027) supported a 
 
 **Libraries:** forecast
 
-R was used for this project, instead of Python, because it enables quicker development of visualizations. That functionality was crucial because multiple datasets were explored throughout the project.
-
 ## Graphs
 ![Nitrogen Fertilizer Price Forecast](Nitrogen%20Fertilizer%20Price%20Forecast.jpeg?raw=true "Nitrogen Fertilizer Price Forecast")
 ![Potash Fertilizer Price Forecast](Potash%20Fertilizer%20Price%20Forecast.jpeg?raw=true "Potash Fertilizer Price Forecast")
